@@ -1,2 +1,4 @@
 # text-summarizer-python
 By using this, you can get your text summary. like that how many words, uppercase letter. lowercase letter, space, number etc. are used in your text.
+# For test you can use :
+Hello WORLD, My name is SHAFIUL Islam. I am 21 years old and currently studying Computer Science. My CGPA is 3.85 and I have solved 1234 programming problems. Last month I solved 45 problems in one week and 12.12 hours were spent on coding practice. I know Python, C, C++, JavaScript, HTML, CSS, and SQL. My favorite calculations are 100+200, 500-300, 25*4, and 100/5. You can contact me at shafiul@gmail.com or visit my profile #Programmer @Developer. Sometimes I use symbols like $, %, &, !, ?, :, ;, (, ), [, ], {, }, <, >, and _ while writing code. Machine Learning, Deep Learning, AI, Data Science, and Computer Vision are my favorite fields. In 2025 I completed 365 days of continuous learning and my target is to reach Google within the next 5 years.
